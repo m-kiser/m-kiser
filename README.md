@@ -14,7 +14,19 @@ You can click the Preview link to take a look at your changes.
 ### 
 - United States Air Force Veteran
 - I'm currently working as a Network Engineer as well as doing Database Administration.
-- I’m passionate about learning more about cloud development and building useful applications that make life easier.
-- I’m currently almost done with my bachelor's in Cloud Development and look to start my MBA after that.
-- I’m looking to collaborate on projects that will help me build my skills.
-- You can reach me on my LinkedIn at www.linkedin.com/in/marktannerkiser
+- Passionate about learning more about cloud development and building useful applications that make life easier.
+- Currently almost done with my bachelor's in Cloud Development and look to start my MBA after that.
+- Looking to collaborate on projects that will help me build my skills and make connections.
+
+<br>
+
+<div align="center">
+  <a href="tkiser500@outlook.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/marktannerkiser" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr>
