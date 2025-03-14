@@ -11,8 +11,6 @@ You can click the Preview link to take a look at your changes.
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Mark!;" />
 </h1>
 
-<img src="https://github.com/m-kiser/m-kiser/blob/main/output%20(3).jpg" alt="Banner of a developer sitting in front of a desk">
-
 ### 
 - United States Air Force Veteran
 - I'm currently working as a Network Engineer as well as doing Database Administration.
