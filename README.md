@@ -12,7 +12,6 @@ You can click the Preview link to take a look at your changes.
 </h1>
 
 ### 
-- I’m Mark Kiser
 - United States Air Force Veteran
 - I'm currently working as a Network Engineer as well as doing Database Administration.
 - I’m passionate about learning more about cloud development and building useful applications that make life easier.
