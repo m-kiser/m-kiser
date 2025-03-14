@@ -21,9 +21,6 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 <div align="center">
-  <a href="tkiser500@outlook.com">
-    <img src="https://img.shields.io/badge/Email-blue" />
-  </a>
   <a href="https://linkedin.com/in/marktannerkiser" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
