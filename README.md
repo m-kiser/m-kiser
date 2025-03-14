@@ -15,5 +15,3 @@ You can click the Preview link to take a look at your changes.
   <img src="https://profile-counter.glitch.me/m-kiser/count.svg" alt="Visitor's Count" />
 </div>
 
-
-<img src="https://github.com/m-kiser/m-kiser/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
