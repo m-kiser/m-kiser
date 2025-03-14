@@ -27,3 +27,15 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <hr>
+
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,html,css,js,gitbash,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=notion,powershell,raspberrypi,regex,unity,vscode" />
+</p>
+
+<hr>
